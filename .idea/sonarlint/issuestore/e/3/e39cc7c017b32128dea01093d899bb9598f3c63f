@@ -1,0 +1,6 @@
+
+{
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8ê¬Ê¼Õ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¿ÍÏ­ıÿÿÿÿ8ù¬Ê¼Õ/
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÌøåÄüÿÿÿÿ8­Ê¼Õ/

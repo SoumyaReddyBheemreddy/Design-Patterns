@@ -1,0 +1,5 @@
+
+h	java:S116"NRename this field "EMI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚæÑ‘ýÿÿÿÿ
+m
+java:S1450"RRemove the "EMI" field and declare it as a local variable in the relevant methods.(ÚæÑ‘ýÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ý±åÎ
